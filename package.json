@@ -1,25 +1,25 @@
 {
-    "name": "MiguelkiNetwork-MCLauncher",
-    "productname": "Miguelki Network MC Launcher",
-    "version": "3.4.1",
-    "sub_version": "EXP1",
-    "changelog": "Arreglos menores",
-    "description": "Launcher de minecraft para los servidores de Miguelki Network",
+    "name": "Espermadeath2-Launcher",
+    "productname": "Espermadeath II Launcher",
+    "version": "1.0.0",
+    "sub_version": "",
+    "changelog": "Esta es la primera versión del launcher.",
+    "description": "Espermadeath II Launcher",
     "main": "src/app.js",
     "author": {
         "name": "Miguelki",
         "email": "admin@miguelkinetwork.fun",
         "url": "https://github.com/miguelkix30"
     },
-    "url": "http://mclauncherapi.miguelkiwebservices.com/",
+    "url": "http://esper.miguelkiwebservices.com/",
     "azuriom_url": "https://minecraft.miguelkinetwork.info/",
-    "discord_url": "https://dsc.gg/miguelkinetwork",
-    "discord_client_id": "1307003977442787451",
+    "discord_url": "https://discord.gg/jZfsJEBYkA",
+    "discord_client_id": "1395490751189614793",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://github.com/miguelkix30/MiguelkiNetworkMCLauncher/master/src/assets/images/icon.png"
+        "icon": "node build.js --icon=https://github.com/EspermadeathDev/Espermadeath2Launcher/master/src/assets/images/icon.png"
     },
     "license": "CCANC",
     "nodemonConfig": {
@@ -56,6 +56,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/miguelkix30/MiguelkiNetworkMCLauncher.git"
+        "url": "git+https://github.com/EspermadeathDev/Espermadeath2Launcher.git"
     }
 }
