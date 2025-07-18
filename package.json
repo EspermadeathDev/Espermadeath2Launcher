@@ -1,9 +1,9 @@
 {
     "name": "Espermadeath2-Launcher",
     "productname": "Espermadeath II Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "sub_version": "",
-    "changelog": "Esta es la primera versión del launcher.",
+    "changelog": "Actualización del icono.",
     "description": "Espermadeath II Launcher",
     "main": "src/app.js",
     "author": {
