@@ -1,9 +1,9 @@
 {
     "name": "Espermadeath2-Launcher",
     "productname": "Espermadeath II Launcher",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "sub_version": "",
-    "changelog": "Actualización del icono.",
+    "changelog": "Arreglados los loaders de fabric y quilt.",
     "description": "Espermadeath II Launcher",
     "main": "src/app.js",
     "author": {
